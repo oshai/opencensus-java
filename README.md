@@ -1,3 +1,9 @@
+## Known issues (to be fixed in fork)
+
+- https://github.com/census-instrumentation/opencensus-specs/issues/262
+- https://github.com/census-instrumentation/opencensus-java/pull/1837
+
+
 > **Warning**
 >
 > OpenCensus and OpenTracing have merged to form [OpenTelemetry](https://opentelemetry.io), which serves as the next major version of OpenCensus and OpenTracing.
